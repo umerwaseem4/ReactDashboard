@@ -1,0 +1,24 @@
+{
+  "cars": [
+    {
+      "CarName": "Toyota Corolla",
+      "CarDetails": "Toyota Corolla 2020 GLi",
+      "RentedAt": "2020-10-15",
+      "id": 1
+    },
+    {
+      "CarName": "Honda Civic",
+      "CarDetails": "Honda Civic 2019",
+      "RentedAt": "2020-10-13",
+      "id": 2
+    }
+  ],
+  "drivers": [
+    {
+      "name": "Mukhtar Buzdar",
+      "CurrentCar": "Toyota Corolla",
+      "phoneNo": "0302315235",
+      "id": 1
+    }
+  ]
+}
